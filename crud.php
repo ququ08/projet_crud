@@ -79,7 +79,7 @@ $elements = $bdd->query("SELECT * FROM elements ORDER BY id ASC");//je recupere 
                 </div>
                 <?php endif; ?>
             <div class="text-center">
-                <h1 class="fw-bold mx-auto text-uppercase">mon gestionnaire</h1>
+                <h1 class="fw-bold mx-auto text-uppercase">mon gestionnaire de contact</h1>
                 <p>Ajouter, supprimer, et modifier vos éléments facilement</p>
             </div>
         </div>
